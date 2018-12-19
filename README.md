@@ -1,4 +1,5 @@
-# Ethereum-community-toolset
+# Ethereum community library
+
+A Library of toolset and data about the Ethereum community and his ecosystem.
 
 
-#  International, borderless and decentralised constellation of subcommunity?
