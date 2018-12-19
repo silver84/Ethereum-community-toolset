@@ -1,4 +1,4 @@
-# Subcommunities interactions and relationships Visualisation of the Ethereum ecosystem
+# Visualisation of the Ethereum ecosystem: Interactions and relationships between subcommunities
 
 
 
