@@ -1,6 +1,6 @@
 [role="pagenumrestart"]
 [[whatis_chapter]]
-== Attraction, Attention and Affinity analysis of the Ethereum ecosystem
+== Attention and Affinity analysis of sub-communities inside the Ethereum ecosystem
 
-In this analysis I use open source software written in Python [Twecoll] (https://github.com/jdevoo/twecoll/blob/master/README.md) to retrieve data from Twitter and then the open-source software [gephi] for visualizing and analysing large networks graph (https://gephi.org/users/).
+In this analysis I use open source software written in Python [Twecoll](https://github.com/jdevoo/twecoll/blob/master/README.md) to retrieve data from Twitter and then the open-source software [gephi](https://gephi.org/users/) for visualizing and analysing large networks graph .
 
