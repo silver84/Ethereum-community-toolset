@@ -80,7 +80,47 @@ In our analysis this graph algorithm was used to emphasis network visualisation 
 
 # GRAPH 1
 
-**  [Fruchterman-Reingold](https://github.com/gephi/gephi/wiki/Fruchterman-Reingold) + [Betweenness centrality](https://en.wikipedia.org/wiki/Centrality#Betweenness_centrality) +  [Hubs and authorities](https://github.com/gephi/gephi/wiki/HITS)
+**[Fruchterman-Reingold](https://github.com/gephi/gephi/wiki/Fruchterman-Reingold) + [Betweenness centrality](https://en.wikipedia.org/wiki/Centrality#Betweenness_centrality) + [Hubs and authorities](https://github.com/gephi/gephi/wiki/HITS)** 
 
 ![Graph1](src/Graph/graph1.png)
 
+# GRAPH 2
+
+**[Fruchterman-Reingold](https://github.com/gephi/gephi/wiki/Fruchterman-Reingold) + [Betweenness centrality](https://en.wikipedia.org/wiki/Centrality#Betweenness_centrality) + [Modularity](https://github.com/gephi/gephi/wiki/Modularity)** 
+![Graph2](src/Graph/graph2.png)
+
+# GRAPH 3
+
+**[Fruchterman-Reingold](https://github.com/gephi/gephi/wiki/Fruchterman-Reingold) + [Weight Degree](https://en.wikipedia.org/wiki/Centrality#Degree_centrality) + [Hubs and authorities](https://github.com/gephi/gephi/wiki/HITS)** 
+
+![Graph3](src/Graph/graph3.png)
+
+# GRAPH 4
+
+**[Fruchterman-Reingold](https://github.com/gephi/gephi/wiki/Fruchterman-Reingold) + [Weight Degree](https://en.wikipedia.org/wiki/Centrality#Degree_centrality) + [Modularity](https://github.com/gephi/gephi/wiki/Modularity)** 
+
+![Graph4](src/Graph/graph4.png)
+
+# GRAPH 5
+
+**[ForceAtlas2](https://github.com/gephi/gephi/wiki/Force-Atlas-2) + [Betweenness centrality](https://en.wikipedia.org/wiki/Centrality#Betweenness_centrality) + [Hubs and authorities](https://github.com/gephi/gephi/wiki/HITS)** 
+
+![Graph5](src/Graph/graph5.png)
+
+# GRAPH 6
+
+**[ForceAtlas2](https://github.com/gephi/gephi/wiki/Force-Atlas-2) + [Betweenness centrality](https://en.wikipedia.org/wiki/Centrality#Betweenness_centrality) + [Modularity](https://github.com/gephi/gephi/wiki/Modularity)** 
+
+![Graph6](src/Graph/graph6.png)
+
+# GRAPH 7
+
+**[ForceAtlas2](https://github.com/gephi/gephi/wiki/Force-Atlas-2) + [Weight Degree](https://en.wikipedia.org/wiki/Centrality#Degree_centrality) + [Hubs and authorities](https://github.com/gephi/gephi/wiki/HITS)** 
+
+![Graph7](src/Graph/graph7.png)
+
+# GRAPH 8
+
+**[ForceAtlas2](https://github.com/gephi/gephi/wiki/Force-Atlas-2) + [Weight Degree](https://en.wikipedia.org/wiki/Centrality#Degree_centrality) + [Modularity](https://github.com/gephi/gephi/wiki/Modularity)** 
+
+![Graph8](src/Graph/graph8.png)
