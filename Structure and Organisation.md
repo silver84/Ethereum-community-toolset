@@ -24,13 +24,13 @@ In the Ethereum Ecosystem differentes leaderships model coexist:
 - Some of these organisation have opted for a partnership model over pure competition.
 They have often more or less a hierarchical leadership structures internaly but collaborate and coordinate horizontaly through consensus with other organisation.
 
-- Some of these organisation have opted for a Hybrid modele
+- Some of these organisation have opted for a Hybrid modele.
 
 
 ![Structure](src/Image/structure.png)
 
 
-# List of Ethereum projects classify by leadership structures
+# List of Ethereum projects classified by leadership structures
 
 
 To Do
