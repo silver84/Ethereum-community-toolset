@@ -7,7 +7,7 @@ Fast at decision making in a stable environement, often super specialised they e
 The trade off: Less mobile to adapt changing condition in an instable environement, often less inclusive, more opaque, tend to produce silos of informations, required considerable amount of ressource and energy to maintain power and balance.
 
 ## Horizontal leadership structure:
-They are based around the collaboration, coordination and the shared responsibility of group of individuals and organisation.
+Based around collaboration, coordination and the shared responsibility of group of individuals and organisation.
 
 They are more more mobile to adapt changing condition in an instable environement, innovative, dynamic, fair and inclusive, more transparent and less costly to maintain, they exist to guarantee the longevity of his ecosystem while allowing a constant renewal of its participants.
 
@@ -30,3 +30,7 @@ They have often more or less a hierarchical leadership structures internaly but 
 ![Structure](src/Image/structure.png)
 
 
+# List of Ethereum projects classify by leadership structures
+
+
+To Do
