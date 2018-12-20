@@ -5922,602 +5922,602 @@
                 stroke-opacity="1.0" stroke-width="1.0"/>
     </g>
     <g id="node-labels">
-        <text font-size="26" x="1344.604" y="396.78168" fill="#000000"
+        <text font-size="30" x="1344.604" y="397.52225" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_8">
             Cosmos
         </text>
-        <text font-size="26" x="-623.8248" y="142.29155" fill="#000000"
+        <text font-size="30" x="-623.8248" y="143.20627" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_106">
             Airswap
         </text>
-        <text font-size="26" x="1114.6876" y="-344.1862" fill="#000000"
+        <text font-size="30" x="1114.6876" y="-343.4453" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_89">
             Oraclize
         </text>
-        <text font-size="26" x="132.16823" y="-452.7276" fill="#000000"
+        <text font-size="30" x="132.16823" y="-451.98706" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_71">
             Giveth
         </text>
-        <text font-size="26" x="592.3533" y="1179.9839" fill="#000000"
+        <text font-size="30" x="592.3533" y="1180.7114" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_90">
             Akasha
         </text>
-        <text font-size="26" x="255.5327" y="182.35007" fill="#000000"
+        <text font-size="30" x="255.5327" y="183.26479" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_118">
             Nanopool
         </text>
-        <text font-size="26" x="-150.16327" y="-155.15698" fill="#000000"
+        <text font-size="30" x="-150.16327" y="-154.42944" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_49">
             Ethereum Network
         </text>
-        <text font-size="26" x="-579.5782" y="-243.8121" fill="#000000"
+        <text font-size="30" x="-579.5782" y="-243.08456" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_93">
             Meridio
         </text>
-        <text font-size="26" x="232.65265" y="163.18677" fill="#000000"
+        <text font-size="30" x="232.65265" y="163.92734" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_121">
             Ethereum Classic
         </text>
-        <text font-size="26" x="243.46324" y="22.58916" fill="#000000"
+        <text font-size="30" x="243.46324" y="23.3167" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_110">
             Etherchain
         </text>
-        <text font-size="26" x="-761.4479" y="-311.4958" fill="#000000"
+        <text font-size="30" x="-761.4479" y="-310.557" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_84">
             Consensys News
         </text>
-        <text font-size="26" x="928.8453" y="-929.3955" fill="#000000"
+        <text font-size="30" x="928.8453" y="-928.66797" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_120">
             Ethereum-Pool
         </text>
-        <text font-size="26" x="247.97337" y="-174.06064" fill="#000000"
+        <text font-size="30" x="247.97337" y="-173.32007" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_55">
             Status
         </text>
-        <text font-size="26" x="720.8993" y="-59.934887" fill="#000000"
+        <text font-size="30" x="720.8993" y="-59.008453" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_50">
             Parity Tech
         </text>
-        <text font-size="26" x="-414.33405" y="187.70901" fill="#000000"
+        <text font-size="30" x="-414.33405" y="188.43655" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_92">
             Nethereum
         </text>
-        <text font-size="26" x="1020.86615" y="382.95538" fill="#000000"
+        <text font-size="30" x="1020.86615" y="383.8701" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_19">
             Ethersphere
         </text>
-        <text font-size="26" x="923.8995" y="-729.363" fill="#000000"
+        <text font-size="30" x="923.8995" y="-728.4453" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_113">
             Libp2p
         </text>
-        <text font-size="26" x="464.57205" y="310.14462" fill="#000000"
+        <text font-size="30" x="464.57205" y="310.88452" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_104">
             Ethfinex
         </text>
-        <text font-size="26" x="-153.96072" y="793.0814" fill="#000000"
+        <text font-size="30" x="-153.96072" y="793.80896" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_79">
             Decentraland
         </text>
-        <text font-size="26" x="813.7082" y="-315.6731" fill="#000000"
+        <text font-size="30" x="813.7082" y="-314.73428" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_81">
             Dfinity
         </text>
-        <text font-size="26" x="-780.62573" y="-13.427086" fill="#000000"
+        <text font-size="30" x="-780.62573" y="-12.687178" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_29">
             Truffle
         </text>
-        <text font-size="26" x="-719.5512" y="291.11713" fill="#000000"
+        <text font-size="30" x="-719.5512" y="291.85767" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_87">
             TruSet
         </text>
-        <text font-size="26" x="253.01474" y="495.88132" fill="#000000"
+        <text font-size="30" x="253.01474" y="496.61243" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_12">
             District0x
         </text>
-        <text font-size="26" x="1276.7606" y="-256.65436" fill="#000000"
+        <text font-size="30" x="1276.7606" y="-255.91379" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_17">
             ENS
         </text>
-        <text font-size="26" x="-528.25916" y="121.205345" fill="#000000"
+        <text font-size="30" x="-528.25916" y="122.131775" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_77">
             Polymath
         </text>
-        <text font-size="26" x="5.820128" y="37.224747" fill="#000000"
+        <text font-size="30" x="5.820128" y="37.952286" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_26">
             AdEx Network
         </text>
-        <text font-size="26" x="432.2281" y="599.68677" fill="#000000"
+        <text font-size="30" x="432.2281" y="600.4273" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_18">
             Swarm
         </text>
-        <text font-size="26" x="494.00235" y="-212.15784" fill="#000000"
+        <text font-size="30" x="494.00235" y="-211.41728" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_65">
             Golem
         </text>
-        <text font-size="26" x="1214.4246" y="34.2504" fill="#000000"
+        <text font-size="30" x="1214.4246" y="34.97794" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_47">
             Polkadot
         </text>
-        <text font-size="26" x="-432.84372" y="-192.33203" fill="#000000"
+        <text font-size="30" x="-432.84372" y="-191.60449" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_28">
             Loomnetwork
         </text>
-        <text font-size="26" x="295.18396" y="1217.8838" fill="#000000"
+        <text font-size="30" x="295.18396" y="1218.8229" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_78">
             Oyster Pearl
         </text>
-        <text font-size="26" x="-49.058613" y="355.70587" fill="#000000"
+        <text font-size="30" x="-49.058613" y="356.4334" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_103">
             Ddex
         </text>
-        <text font-size="26" x="-667.4127" y="-537.70636" fill="#000000"
+        <text font-size="30" x="-667.4127" y="-536.9788" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_74">
             Alice-si
         </text>
-        <text font-size="26" x="-896.2392" y="425.59308" fill="#000000"
+        <text font-size="30" x="-896.2392" y="426.32062" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_31">
             Alethio
         </text>
-        <text font-size="26" x="-277.01785" y="931.2999" fill="#000000"
+        <text font-size="30" x="-277.01785" y="932.02747" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_40">
             Binance Labs
         </text>
-        <text font-size="26" x="669.55304" y="657.4436" fill="#000000"
+        <text font-size="30" x="669.55304" y="658.373" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_67">
             0xProject
         </text>
-        <text font-size="26" x="119.10015" y="465.6777" fill="#000000"
+        <text font-size="30" x="119.10015" y="466.40524" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_109">
             Etherscan
         </text>
-        <text font-size="26" x="91.40426" y="-229.85887" fill="#000000"
+        <text font-size="30" x="91.40426" y="-229.13133" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_43">
             Mattereum
         </text>
-        <text font-size="26" x="371.7162" y="-933.1067" fill="#000000"
+        <text font-size="30" x="371.7162" y="-932.3658" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_69">
             MakerDAO
         </text>
-        <text font-size="26" x="1128.2634" y="860.3491" fill="#000000"
+        <text font-size="30" x="1128.2634" y="861.0897" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_37">
             Slockit
         </text>
-        <text font-size="26" x="432.34732" y="438.2678" fill="#000000"
+        <text font-size="30" x="432.34732" y="439.1942" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_66">
             Digix
         </text>
-        <text font-size="26" x="253.57954" y="58.798523" fill="#000000"
+        <text font-size="30" x="253.57954" y="59.526714" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_4">
             JAAK
         </text>
-        <text font-size="26" x="-902.81934" y="-816.21924" fill="#000000"
+        <text font-size="30" x="-902.81934" y="-815.2928" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_5">
             UjoMusic
         </text>
-        <text font-size="26" x="-484.51508" y="-449.81995" fill="#000000"
+        <text font-size="30" x="-484.51508" y="-448.88116" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_88">
             Tokenfoundry
         </text>
-        <text font-size="26" x="-1005.079" y="-258.74832" fill="#000000"
+        <text font-size="30" x="-1005.079" y="-257.82092" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_58">
             OpenLaw
         </text>
-        <text font-size="26" x="25.76531" y="179.94344" fill="#000000"
+        <text font-size="30" x="25.76531" y="180.65926" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_20">
             IDEX
         </text>
-        <text font-size="26" x="187.35063" y="-326.41446" fill="#000000"
+        <text font-size="30" x="187.35063" y="-325.68692" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_39">
             Dether
         </text>
-        <text font-size="26" x="-199.18011" y="84.968056" fill="#000000"
+        <text font-size="30" x="-199.18011" y="85.90686" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_1">
             CryptoKitties
         </text>
-        <text font-size="26" x="56.521065" y="-952.9033" fill="#000000"
+        <text font-size="30" x="56.521065" y="-952.1627" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_63">
             Gnosis
         </text>
-        <text font-size="26" x="336.33572" y="835.16437" fill="#000000"
+        <text font-size="30" x="336.33572" y="835.8919" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_2">
             Ethereum Foundation
         </text>
-        <text font-size="26" x="554.3489" y="33.65062" fill="#000000"
+        <text font-size="30" x="554.3489" y="34.37816" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_116">
             Zcash Foundation
         </text>
-        <text font-size="26" x="-843.4516" y="-293.04803" fill="#000000"
+        <text font-size="30" x="-843.4516" y="-292.3205" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_97">
             Kaleido
         </text>
-        <text font-size="26" x="643.20355" y="-944.5293" fill="#000000"
+        <text font-size="30" x="643.20355" y="-943.80176" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_112">
             L4 Ventures
         </text>
-        <text font-size="26" x="-662.7338" y="-345.4057" fill="#000000"
+        <text font-size="30" x="-662.7338" y="-344.66516" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_99">
             Cellarius
         </text>
-        <text font-size="26" x="547.55237" y="164.13063" fill="#000000"
+        <text font-size="30" x="547.55237" y="165.04535" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_61">
             Melonport
         </text>
-        <text font-size="26" x="-497.63516" y="468.11267" fill="#000000"
+        <text font-size="30" x="-497.63516" y="468.85324" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_34">
             Grid+
         </text>
-        <text font-size="26" x="-685.34985" y="-153.44272" fill="#000000"
+        <text font-size="30" x="-685.34985" y="-152.50392" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_83">
             Consensys Design
         </text>
-        <text font-size="26" x="-91.54241" y="551.2636" fill="#000000"
+        <text font-size="30" x="-91.54241" y="552.19006" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_64">
             Kyber Network
         </text>
-        <text font-size="26" x="572.6343" y="-748.5828" fill="#000000"
+        <text font-size="30" x="572.6343" y="-747.6564" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_75">
             EthMagicians
         </text>
-        <text font-size="26" x="-1195.8334" y="-174.38391" fill="#000000"
+        <text font-size="30" x="-1195.8334" y="-173.65637" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_86">
             VariabL
         </text>
-        <text font-size="26" x="49.20245" y="141.13148" fill="#000000"
+        <text font-size="30" x="49.20245" y="141.85902" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_102">
             ForkDelta
         </text>
-        <text font-size="26" x="56.761127" y="-61.611526" fill="#000000"
+        <text font-size="30" x="56.761127" y="-60.883987" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_85">
             Viant
         </text>
-        <text font-size="26" x="169.47415" y="-698.80817" fill="#000000"
+        <text font-size="30" x="169.47415" y="-698.0806" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_45">
             Truebit
         </text>
-        <text font-size="26" x="-572.753" y="-619.2183" fill="#000000"
+        <text font-size="30" x="-572.753" y="-618.4908" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_70">
             EthBounties
         </text>
-        <text font-size="26" x="320.60858" y="-46.35686" fill="#000000"
+        <text font-size="30" x="320.60858" y="-45.442146" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_22">
             DAppNode
         </text>
-        <text font-size="26" x="-315.68036" y="-1028.8533" fill="#000000"
+        <text font-size="30" x="-315.68036" y="-1028.1257" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_46">
             Raiden Network
         </text>
-        <text font-size="26" x="-326.24387" y="219.26355" fill="#000000"
+        <text font-size="30" x="-326.24387" y="219.99109" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_33">
             Adchain
         </text>
-        <text font-size="26" x="-196.02776" y="172.5157" fill="#000000"
+        <text font-size="30" x="-196.02776" y="173.43042" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_94">
             LitePaper
         </text>
-        <text font-size="26" x="270.09915" y="121.17728" fill="#000000"
+        <text font-size="30" x="270.09915" y="121.91816" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_111">
             POA Network
         </text>
-        <text font-size="26" x="202.97" y="360.25763" fill="#000000"
+        <text font-size="30" x="202.97" y="360.98517" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_105">
             Paradex
         </text>
-        <text font-size="26" x="-32.06214" y="-22.989096" fill="#000000"
+        <text font-size="30" x="-32.06214" y="-22.24821" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_107">
             Ocean Trade
         </text>
-        <text font-size="26" x="28.50713" y="270.51697" fill="#000000"
+        <text font-size="30" x="28.50713" y="271.45578" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_76">
             MyCrypto
         </text>
-        <text font-size="26" x="-429.21313" y="-15.764514" fill="#000000"
+        <text font-size="30" x="-429.21313" y="-14.825712" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_57">
             ConsenSys
         </text>
-        <text font-size="26" x="-166.0146" y="-462.0774" fill="#000000"
+        <text font-size="30" x="-166.0146" y="-461.34985" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_54">
             Metamask
         </text>
-        <text font-size="26" x="-268.89838" y="-802.46826" fill="#000000"
+        <text font-size="30" x="-268.89838" y="-801.5535" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_56">
             Uport
         </text>
-        <text font-size="26" x="-582.98535" y="-965.36115" fill="#000000"
+        <text font-size="30" x="-582.98535" y="-964.6336" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_36">
             Kauri
         </text>
-        <text font-size="26" x="-215.89249" y="1051.3694" fill="#000000"
+        <text font-size="30" x="-215.89249" y="1052.2958" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_41">
             Binance Academy
         </text>
-        <text font-size="26" x="-915.6731" y="-556.23694" fill="#000000"
+        <text font-size="30" x="-915.6731" y="-555.2981" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_35">
             PegaSys
         </text>
-        <text font-size="26" x="-281.0525" y="371.50372" fill="#000000"
+        <text font-size="30" x="-281.0525" y="372.2446" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_62">
             OmiseGo
         </text>
-        <text font-size="26" x="270.7445" y="248.96133" fill="#000000"
+        <text font-size="30" x="270.7445" y="249.90013" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_42">
             Sweetbridge
         </text>
-        <text font-size="26" x="942.4755" y="-211.82687" fill="#000000"
+        <text font-size="30" x="942.4755" y="-210.88806" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_48">
             Colony
         </text>
-        <text font-size="26" x="-80.67532" y="91.43407" fill="#000000"
+        <text font-size="30" x="-80.67532" y="92.37287" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_14">
             SingularDTV
         </text>
-        <text font-size="26" x="-477.34137" y="735.70526" fill="#000000"
+        <text font-size="30" x="-477.34137" y="736.4367" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_100">
             Balanc3
         </text>
-        <text font-size="26" x="-769.6082" y="-658.2588" fill="#000000"
+        <text font-size="30" x="-769.6082" y="-657.5182" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_95">
             Stow Protocol
         </text>
-        <text font-size="26" x="161.89595" y="213.95238" fill="#000000"
+        <text font-size="30" x="161.89595" y="214.67992" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_27">
             FunFair
         </text>
-        <text font-size="26" x="-261.13464" y="167.37796" fill="#000000"
+        <text font-size="30" x="-261.13464" y="168.3044" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_98">
             Myetheremon
         </text>
-        <text font-size="26" x="188.70505" y="683.56714" fill="#000000"
+        <text font-size="30" x="188.70505" y="684.4936" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_59">
             Democracy Earth
         </text>
-        <text font-size="26" x="1084.9645" y="-513.72327" fill="#000000"
+        <text font-size="30" x="1084.9645" y="-512.9827" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_117">
             StarkWare
         </text>
-        <text font-size="26" x="343.07715" y="108.53974" fill="#000000"
+        <text font-size="30" x="343.07715" y="109.26728" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_24">
             DataFund
         </text>
-        <text font-size="26" x="-157.3791" y="189.85693" fill="#000000"
+        <text font-size="30" x="-157.3791" y="190.78403" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_13">
             SpankChain
         </text>
-        <text font-size="26" x="710.3295" y="362.66824" fill="#000000"
+        <text font-size="30" x="710.3295" y="363.39578" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_23">
             Etherisc
         </text>
-        <text font-size="26" x="826.0141" y="1134.2764" fill="#000000"
+        <text font-size="30" x="826.0141" y="1135.0039" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_101">
             Filecoin
         </text>
-        <text font-size="26" x="983.2576" y="992.5534" fill="#000000"
+        <text font-size="30" x="983.2576" y="993.29333" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_119">
             DwarfPool
         </text>
-        <text font-size="26" x="358.323" y="1059.6924" fill="#000000"
+        <text font-size="30" x="358.323" y="1060.4199" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_114">
             Protocol Labs
         </text>
-        <text font-size="26" x="904.02924" y="-611.4586" fill="#000000"
+        <text font-size="30" x="904.02924" y="-610.718" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_7">
             Ethereum CF
         </text>
-        <text font-size="26" x="696.07983" y="927.0714" fill="#000000"
+        <text font-size="30" x="696.07983" y="927.812" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_9">
             IPFS
         </text>
-        <text font-size="26" x="596.4794" y="-387.63657" fill="#000000"
+        <text font-size="30" x="596.4794" y="-386.71014" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_3">
             Aragon
         </text>
-        <text font-size="26" x="128.10327" y="-91.18769" fill="#000000"
+        <text font-size="30" x="128.10327" y="-90.46015" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_38">
             Localethereum
         </text>
-        <text font-size="26" x="-746.04156" y="-453.45087" fill="#000000"
+        <text font-size="30" x="-746.04156" y="-452.5121" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_72">
             ConsenSys Impact
         </text>
-        <text font-size="26" x="-1000.0748" y="141.28468" fill="#000000"
+        <text font-size="30" x="-1000.0748" y="142.0246" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_52">
             Infura
         </text>
-        <text font-size="26" x="-137.50688" y="325.91516" fill="#000000"
+        <text font-size="30" x="-137.50688" y="326.6427" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_15">
             Bancor
         </text>
-        <text font-size="26" x="394.90967" y="187.80626" fill="#000000"
+        <text font-size="30" x="394.90967" y="188.5338" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_115">
             Zcash
         </text>
-        <text font-size="26" x="-509.4587" y="220.08102" fill="#000000"
+        <text font-size="30" x="-509.4587" y="220.80856" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_82">
             Virtue Poker
         </text>
-        <text font-size="26" x="-419.86075" y="-314.58215" fill="#000000"
+        <text font-size="30" x="-419.86075" y="-313.84158" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_68">
             Gitcoin
         </text>
-        <text font-size="26" x="451.6782" y="-24.12703" fill="#000000"
+        <text font-size="30" x="451.6782" y="-23.395584" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_44">
             Web3 Foundation
         </text>
-        <text font-size="26" x="119.137825" y="59.37717" fill="#000000"
+        <text font-size="30" x="119.137825" y="60.303604" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_53">
             Myetherwallet
         </text>
-        <text font-size="26" x="-539.0462" y="-74.60289" fill="#000000"
+        <text font-size="30" x="-539.0462" y="-73.87535" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_96">
             Kuraci Music
         </text>
-        <text font-size="26" x="-11.778538" y="-259.99448" fill="#000000"
+        <text font-size="30" x="-11.778538" y="-259.07977" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_21">
             LivepeerTV
         </text>
-        <text font-size="26" x="154.5449" y="1128.9924" fill="#000000"
+        <text font-size="30" x="154.5449" y="1129.7083" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_25">
             BAT
         </text>
-        <text font-size="26" x="-322.76837" y="708.6116" fill="#000000"
+        <text font-size="30" x="-322.76837" y="709.5507" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_91">
             OmegaOne
         </text>
-        <text font-size="26" x="-691.557" y="646.31287" fill="#000000"
+        <text font-size="30" x="-691.557" y="647.0287" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_51">
             EEA
         </text>
-        <text font-size="26" x="-1002.4461" y="-376.11115" fill="#000000"
+        <text font-size="30" x="-1002.4461" y="-375.17233" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_30">
             ConsenSys Academy
         </text>
-        <text font-size="26" x="952.22064" y="117.60814" fill="#000000"
+        <text font-size="30" x="952.22064" y="118.33568" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_16">
             iExec
         </text>
-        <text font-size="26" x="357.3186" y="-581.42993" fill="#000000"
+        <text font-size="30" x="357.3186" y="-580.4911" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_10">
             Storj
         </text>
-        <text font-size="26" x="-21.670614" y="109.27012" fill="#000000"
+        <text font-size="30" x="-21.670614" y="109.99766" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_80">
             Rchain
         </text>
-        <text font-size="26" x="355.36206" y="-394.8155" fill="#000000"
+        <text font-size="30" x="355.36206" y="-393.88907" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_60">
             Augur
         </text>
-        <text font-size="26" x="63.38345" y="-287.2147" fill="#000000"
+        <text font-size="30" x="63.38345" y="-286.47382" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_11">
             Ocean Protocol
         </text>
-        <text font-size="26" x="54.369373" y="928.54474" fill="#000000"
+        <text font-size="30" x="54.369373" y="929.4712" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_108">
             RadarRelay
         </text>
-        <text font-size="26" x="-1132.4788" y="-513.45605" fill="#000000"
+        <text font-size="30" x="-1132.4788" y="-512.5172" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_32">
             ConsenSys-VC
         </text>
-        <text font-size="26" x="-263.77722" y="-8.306491" fill="#000000"
+        <text font-size="30" x="-263.77722" y="-7.565931" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="id_73">
             BC4Good
