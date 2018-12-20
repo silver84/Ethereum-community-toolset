@@ -82,5 +82,5 @@ In our analysis this graph algorithm was used to emphasis network visualisation 
 
 **  [Fruchterman-Reingold](https://github.com/gephi/gephi/wiki/Fruchterman-Reingold) + [Betweenness centrality](https://en.wikipedia.org/wiki/Centrality#Betweenness_centrality) +  [Hubs and authorities](https://github.com/gephi/gephi/wiki/HITS)
 
-![Graph1](src/Graph/graph1.pdf)
+![Graph1](src/Graph/graph1.png)
 
