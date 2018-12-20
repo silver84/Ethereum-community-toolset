@@ -1,4 +1,4 @@
-# Visualisation of the Ethereum ecosystem: Interactions and relationships between subcommunities
+## Visualisation of the Ethereum ecosystem: Interactions and relationships between subcommunities
 
 
 
@@ -77,4 +77,10 @@ of this physical system. In our analysis this graph algorithm was used to emphas
 This graph algorithm use an innovative way to create repulsion/attraction force between nodes and hedges.
 Nodes repulse each other like charged particles, while edges attract their nodes, like springs. These forces create a movement that converges to a balanced state. This final configuration is expected to help the interpretation of the data.
 In our analysis this graph algorithm was used to emphasis network visualisation and therefore allow a better understanding of complementarities/dependancy between projects inside Ethereum ecosystem.
+
+# GRAPH 1
+
+**  [Fruchterman-Reingold](https://github.com/gephi/gephi/wiki/Fruchterman-Reingold) + [Betweenness centrality](https://en.wikipedia.org/wiki/Centrality#Betweenness_centrality) +  [Hubs and authorities](https://github.com/gephi/gephi/wiki/HITS)
+
+![Graph1](src/Graph/graph1.pdf)
 
