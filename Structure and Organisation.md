@@ -1,12 +1,12 @@
-## Ethereum Structure and Organisation: The co-existence of vertical and horizontal structures
+# Ethereum Structure and Organisation: The co-existence of vertical and horizontal structures
 
 
-#Hierarchical leadership structures:
+## Hierarchical leadership structures:
 Fast at decision making in a stable environement, often super specialised they exist to build and maintain the foundation for a strong ecosystem.
 
 The trade off: Less mobile to adapt changing condition in an instable environement, often less inclusive, more opaque, tend to produce silos of informations, required considerable amount of ressource and energy to maintain power and balance.
 
-#Horizontal leadership structure:
+## Horizontal leadership structure:
 They are based around the collaboration, coordination and the shared responsibility of group of individuals and organisation.
 
 They are more more mobile to adapt changing condition in an instable environement, innovative, dynamic, fair and inclusive, more transparent and less costly to maintain, they exist to guarantee the longevity of his ecosystem while allowing a constant renewal of its participants.

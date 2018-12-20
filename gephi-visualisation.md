@@ -1,4 +1,4 @@
-## Visualisation of the Ethereum ecosystem: Interactions and relationships between subcommunities
+# Visualisation of the Ethereum ecosystem: Interactions and relationships between subcommunities
 
 
 
@@ -24,7 +24,7 @@ For some odd reason [Twecoll](https://github.com/jdevoo/twecoll/blob/master/READ
 
 I appologize in advance if not all famous the project are represented here, I encourage everyone to participate to this collaborative library and add missing data about credible Ethereum project.
 
-# Why twitter ?
+## Why twitter ?
 Analysing a community via twitter will not give you an exact metrics on the nature of a community but in the attempt to gain a better understanding, the graph visualisation of the “who’s following who” in twitter allows us to highlight the structure of the network’s relationships and identify projects whose position is particular.
 It also allow us to identify weak and strong signal such as:
 
@@ -32,7 +32,7 @@ It also allow us to identify weak and strong signal such as:
 - Identify potential affinity and interest between projects and eventually identify subcommunity within the network.
 
 
-# Network graph analysis
+## Network graph analysis
 
 The data used
 
@@ -47,7 +47,7 @@ Edges = the number of interactions and relationships that nodes have with others
 
 We using an undirected graph which mean the connections betwenn node have no obvious direction and are represented by simple lines or curves.
 
-# Network algorithms and metrics
+## Network algorithms and metrics
 
 In this demonstration have been using the following algorithms:
 
@@ -78,48 +78,48 @@ This graph algorithm use an innovative way to create repulsion/attraction force 
 Nodes repulse each other like charged particles, while edges attract their nodes, like springs. These forces create a movement that converges to a balanced state. This final configuration is expected to help the interpretation of the data.
 In our analysis this graph algorithm was used to emphasis network visualisation and therefore allow a better understanding of complementarities/dependancy between projects inside Ethereum ecosystem.
 
-# GRAPH 1
+### GRAPH 1
 
 **[Fruchterman-Reingold](https://github.com/gephi/gephi/wiki/Fruchterman-Reingold) + [Betweenness centrality](https://en.wikipedia.org/wiki/Centrality#Betweenness_centrality) + [Hubs and authorities](https://github.com/gephi/gephi/wiki/HITS)** 
 
 ![Graph1](src/Graph/graph1.png)
 
-# GRAPH 2
+### GRAPH 2
 
 **[Fruchterman-Reingold](https://github.com/gephi/gephi/wiki/Fruchterman-Reingold) + [Betweenness centrality](https://en.wikipedia.org/wiki/Centrality#Betweenness_centrality) + [Modularity](https://github.com/gephi/gephi/wiki/Modularity)** 
 ![Graph2](src/Graph/graph2.png)
 
-# GRAPH 3
+### GRAPH 3
 
 **[Fruchterman-Reingold](https://github.com/gephi/gephi/wiki/Fruchterman-Reingold) + [Weight Degree](https://en.wikipedia.org/wiki/Centrality#Degree_centrality) + [Hubs and authorities](https://github.com/gephi/gephi/wiki/HITS)** 
 
 ![Graph3](src/Graph/graph3.png)
 
-# GRAPH 4
+### GRAPH 4
 
 **[Fruchterman-Reingold](https://github.com/gephi/gephi/wiki/Fruchterman-Reingold) + [Weight Degree](https://en.wikipedia.org/wiki/Centrality#Degree_centrality) + [Modularity](https://github.com/gephi/gephi/wiki/Modularity)** 
 
 ![Graph4](src/Graph/graph4.png)
 
-# GRAPH 5
+### GRAPH 5
 
 **[ForceAtlas2](https://github.com/gephi/gephi/wiki/Force-Atlas-2) + [Betweenness centrality](https://en.wikipedia.org/wiki/Centrality#Betweenness_centrality) + [Hubs and authorities](https://github.com/gephi/gephi/wiki/HITS)** 
 
 ![Graph5](src/Graph/graph5.png)
 
-# GRAPH 6
+### GRAPH 6
 
 **[ForceAtlas2](https://github.com/gephi/gephi/wiki/Force-Atlas-2) + [Betweenness centrality](https://en.wikipedia.org/wiki/Centrality#Betweenness_centrality) + [Modularity](https://github.com/gephi/gephi/wiki/Modularity)** 
 
 ![Graph6](src/Graph/graph6.png)
 
-# GRAPH 7
+### GRAPH 7
 
 **[ForceAtlas2](https://github.com/gephi/gephi/wiki/Force-Atlas-2) + [Weight Degree](https://en.wikipedia.org/wiki/Centrality#Degree_centrality) + [Hubs and authorities](https://github.com/gephi/gephi/wiki/HITS)** 
 
 ![Graph7](src/Graph/graph7.png)
 
-# GRAPH 8
+### GRAPH 8
 
 **[ForceAtlas2](https://github.com/gephi/gephi/wiki/Force-Atlas-2) + [Weight Degree](https://en.wikipedia.org/wiki/Centrality#Degree_centrality) + [Modularity](https://github.com/gephi/gephi/wiki/Modularity)** 
 
