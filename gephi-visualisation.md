@@ -11,7 +11,7 @@ The data collected are public data (official twitter account) of most famous pro
 
 I have selected and vested 122 projects in order to determine their reputation (what is a famous project?) according of standard criteria:
 
-- Does it have a long term historical reputation ?
+- Does it have a long-term historical reputation ?
 - Does it have a github accounts ?
 - Does it have other social media exposure (twitter reddit facebook youtube and so on) ?
 - How many people are signalling they support this project ?
@@ -26,7 +26,7 @@ I apologize in advance if not all projects are represented here, I encourage eve
 
 ## Why twitter ?
 Analysing a community via twitter will not give you an exact metrics on the nature of a community but in the attempt to gain a better understanding, the graph visualisation of the “who’s following who” in twitter allows us to highlight the structure of the network’s relationships and identify projects whose position is specific.
-It also allow us to identify weak and strong signal such as:
+It also allows us to identify weak and strong signal such as:
 
 - The diversity and density of the network, the degree of influence of a project, how the flow of information transmit itself from project to project.
 - Identify potential affinity and interest between projects and eventually identify subcommunity within the network.
