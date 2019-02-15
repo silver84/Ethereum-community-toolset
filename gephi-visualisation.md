@@ -25,7 +25,7 @@ For some odd reason [Twecoll](https://github.com/jdevoo/twecoll/blob/master/READ
 I appologize in advance if not all famous the project are represented here, I encourage everyone to participate to this collaborative library and add missing data about credible Ethereum project.
 
 ## Why twitter ?
-Analysing a community via twitter will not give you an exact metrics on the nature of a community but in the attempt to gain a better understanding, the graph visualisation of the “who’s following who” in twitter allows us to highlight the structure of the network’s relationships and identify projects whose position is particular.
+Analysing a community via twitter will not give you an exact metrics on the nature of a community but in the attempt to gain a better understanding, the graph visualisation of the “who’s following who” in twitter allows us to highlight the structure of the network’s relationships and identify projects whose position is specific.
 It also allow us to identify weak and strong signal such as:
 
 - The diversity and density of the network, the degree of influence of a project, how the flow of information transmit itself from project to project.
