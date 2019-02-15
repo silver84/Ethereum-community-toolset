@@ -7,22 +7,22 @@ The purpose of this graph analysis is to observe and understand the reciprocal i
 
 In this analysis I have used a open source command-line tool written in [Python](https://github.com/jdevoo/twecoll/blob/master/README.md) to retrieve data from Twitter and then an open-source [software ](https://gephi.org/users/) for visualizing and analysing large networks graph.
 
-The data collected are public data (official twitter account) of most famous projects building on ethereum or helping the ecosystem "ethereum friendly" (eg: Ipfs, zcash fondation, polkadot, cosmos, Ocean protocol....)
+The data collected are public data (official twitter account) of most famous projects building on ethereum or "ethereum friendly" project, helping the ecosystem (eg: Ipfs, zcash fondation, polkadot, cosmos, Ocean protocol....)
 
-I have selected and vested 122 projects in order to determine their reputation (what is a famous project?) according of standart criteria:
+I have selected and vested 122 projects in order to determine their reputation (what is a famous project?) according of standard criteria:
 
 - Does it have a long term historical reputation ?
 - Does it have a github accounts ?
 - Does it have other social media exposure (twitter reddit facebook youtube and so on) ?
-- How many people are signaling they support this project ?
-- Is it backed by others official projects or influencers (devs, entrepreneurs, analysts) within the ecosystem ?
-- What is the probability that it satisfy one of set of needs stated above (usuability, prosperity, value satisfaction) ?
+- How many people are signalling they support this project ?
+- Is it backed by others official projects or influencers (developers, entrepreneurs, analysts) within the ecosystem ?
+- What is the probability that it satisfies one of set of needs stated above (usability, prosperity, value satisfaction) ?
 
 You can find the entire list in the [src section](https://github.com/silver84/Ethereum-community-toolset/tree/master/src/raw_dat_and_gml_data).
 
 For some odd reason [Twecoll](https://github.com/jdevoo/twecoll/blob/master/README.md) didn't managed to fletch and processed everything (data around a dozen of projects are missing in the graph).
 
-I appologize in advance if not all famous the project are represented here, I encourage everyone to participate to this collaborative library and add missing data about credible Ethereum project.
+I apologize in advance if not all projects are represented here, I encourage everyone to participate to this collaborative library and add missing data about credible Ethereum project.
 
 ## Why twitter ?
 Analysing a community via twitter will not give you an exact metrics on the nature of a community but in the attempt to gain a better understanding, the graph visualisation of the “who’s following who” in twitter allows us to highlight the structure of the network’s relationships and identify projects whose position is specific.
