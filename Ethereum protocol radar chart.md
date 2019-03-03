@@ -15,11 +15,11 @@ Here you will find my own tailored radar chart of needs satisfaction about the E
 
 
 
-## Usability: Can Ethereum deliver satisfaction on practical use case?
+### Usability: can Ethereum deliver satisfaction on practical use case?
 
 Individuals or group of individuals contribute to develop, maintain or simply use the platform. Because of the mechanisms behind the platform, she can so deliver practical use, on personal and professional level and can be customize by individual or organization for profit or non-profit activity. Tools build from the Ethereum platform can be customized at will by users that want to tailor their own products and services, build new type of business or non-profit model for others. The tools can be upgraded as the user base grow, feedback get integrated consensually to the platform, and it is possible to build sophisticated governance model.
 
-## Prosperity improvement:  By participating in this ecosystem can I improve my own prosperity; can I improve the prosperity of others?
+### Prosperity improvement: by participating in this ecosystem can I improve my own prosperity; can I improve the prosperity of others?
 
 Individuals or group of individuals contribute in the hope to gain a reward who will improve different forms of capital:
 - Financial improvement (opportunities to secure an employment, a stream of revenue or to build a business model on top of the platform).
@@ -30,13 +30,13 @@ Individuals or group of individuals contribute in the hope to gain a reward who 
 These incentives often attract early adopter, where by getting involve in these open and public projects, they can demonstrate to the world their ability to build, solve problem, or just to be proud to have participated to something important, to something they share value with.
 
 
-## Values and Convictions: By participating in this ecosystem can I realize some aspiration, can I obtain spiritual gratification (in the intellectual sense of the word)?
+### Values and Convictions: by participating in this ecosystem can I realize some aspiration, can I obtain spiritual gratification (in the intellectual sense of the word)?
 
 e.g Individuals or group of individuals contribute to the platform for a noble moral cause, (ex: fighting climate change, reducing social inequality), or to justify a set of beliefs (privacy, freedom).
 The designers of Ethereum had and still have a very strong missions, visions, and value to contribute to the world and aim to provide solutions to address problems in the society. They have attracted and will continue to attract users who believe in these values. They are encouraged to participate because they are motivated by beliefs and the product they use reflects their values and allows them to achieve a high level of satisfaction.
 
 
-### Potential radar chart of needs satisfaction about the Ethereum protocol 
+## Potential radar chart of needs satisfaction about the Ethereum protocol 
 
 A personalised radar chart for the satisfaction needs of the Ethereum protocol can be easily tailored at will and can give us a relative insight from the entire community about what their needs satisfaction level of the current protocol are.
 I believe that these signals can potentialy help to gain a better understanding of the community needs and be used to give the community additional discernment into future collective decisions.
