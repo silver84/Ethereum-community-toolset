@@ -2,13 +2,13 @@
 
 ## Toolset and data library about the Ethereum community and his ecosystem.
 
-This library is developed collaboratively and openly, here on GitHub. 
-Comments, contributions and corrections from all are permissionless.
+This library is designed to be developed collaboratively and openly, here on GitHub. 
+Comments, contributions and corrections from all are free and permissionless.
 Please feel free to add more data, analysis and tools about the Ethereum community and his Ecosystem.
 
 
 ## Contribution Guidelines
-In order to contribute to this repository you need to fork it, then you can create a pull request.
+In order to contribute to this repository you can fork it and then create a pull request, or you can report issue, discussed task or even add your own project. 
 
 When adding new items, please adhere to the following guidelines:
 
