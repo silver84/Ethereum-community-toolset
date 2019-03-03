@@ -11,6 +11,7 @@ Here you will find my own tailored radar chart of needs satisfaction about the E
 
 [radar chart created by the open source softwear edrawmax](https://www.edrawsoft.com/download-edrawmax-linux.php)
 
+
 ![chart](src/Edrawmax_files/drawing3.png)
 
 
@@ -47,6 +48,7 @@ I believe that these signals can potentialy help to gain a better understanding 
 Here you will find a potential radar chart of needs satisfaction about the Ethereum protocol who can be created by the community in order to get more insight about the protocol.
 
 [radar chart created by the open source softwear edrawmax](https://www.edrawsoft.com/download-edrawmax-linux.php)
+
 
 ![chart](src/Edrawmax_files/drawing4.png)
 
