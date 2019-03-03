@@ -1,6 +1,6 @@
 # Ethereum community library
 
-## Toolset and data about the Ethereum community and his ecosystem.
+## Toolset and data library about the Ethereum community and his ecosystem.
 
 This library is developed collaboratively and openly, here on GitHub. 
 Comments, contributions and corrections from all are permissionless.
