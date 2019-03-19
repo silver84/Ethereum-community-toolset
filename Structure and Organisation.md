@@ -1,4 +1,4 @@
-# Ethereum Structure and Organisation: The co-existence of vertical and horizontal structures
+# Ethereum Community and Eco-system: Vertical VS horizontal organizational structures
 
 
 ## Hierarchical leadership structures:
